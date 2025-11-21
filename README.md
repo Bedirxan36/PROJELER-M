@@ -1,2 +1,0 @@
-# PROJELER-M
-denemeler
